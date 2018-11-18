@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/bouftonNoir.png</file>
+        <file>Images/bouftouroyal.png</file>
+        <file>Images/crajeu.png</file>
+        <file>Images/crajeudeux.png</file>
+        <file>Images/crajeutrois.png</file>
+        <file>Images/crasel.png</file>
+        <file>Images/croca.png</file>
+        <file>Images/Dofawa.png</file>
+        <file>Images/dofusocre.png</file>
+        <file>Images/feu.png</file>
+        <file>Images/iopjeu.png</file>
+        <file>Images/iopjeudeux.png</file>
+        <file>Images/iopjeutrois.png</file>
+        <file>Images/iopselec.png</file>
+        <file>Images/left_right3.png</file>
+        <file>Images/mapdofus.png</file>
+        <file>Images/Peluche-du-Dopeul-Cra_0.png</file>
+        <file>Images/sacrijeu.png</file>
+        <file>Images/sacrijeudeux.png</file>
+        <file>Images/sacrijeutrois.png</file>
+        <file>Images/sacriselec.png</file>
+        <file>Images/tombstone.png</file>
+        <file>Images/turquoise.png</file>
+        <file>Images/up_down3.png</file>
+    </qresource>
+</RCC>
